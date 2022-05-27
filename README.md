@@ -15,7 +15,7 @@
 
  </div> <br/>
 
- Apaixonada por tecnologias 📱💻, pessoas 🙍‍♀️🙎‍♂️👶 e pets 🐾, atuou na área da educação por 7 anos, durante a pandemia a maneira de lecionar mudou onde Mari se apaixonou 😍 mais ainda por tecnologias, sentiu um desejo de impactar mais a vida das pessoas, então começou a estudar algumas linguagens de programação (temváriooooos certificados na área) e com bons conhecimentos das linguagens acima.
+ Apaixonada por tecnologias 📱💻, pessoas 🙍‍♀️🙎‍♂️👶 e pets 🐾, atuei na área da educação por 7 anos, durante a pandemia a maneira de lecionar mudou onde eu me apaixonei 😍 mais ainda por tecnologias digitais, senti um desejo de impactar mais a vida das pessoas, então comecei a estudar algumas linguagens de programação (tenho váriooooos certificados na área) e com bons conhecimentos nas linguagens acima.
  Gosto de me comunicar de forma clara, sou curiosa (alô, Google?), apaixonada por desafios, amo aprender (mente aberta) e muito flexível.
 
 Busca uma Desenvolvedora Back-End  com muito potencial?
