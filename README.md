@@ -1,5 +1,5 @@
 ### Olá eu sou a Mariana Muniz 🙋‍♀️
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-muniz-desenvolvedora/)(/br)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-muniz-desenvolvedora/)</br>
 ![Mariana GitHub stats](https://github-readme-stats.vercel.app/api?username=MarianaGSMuniz&theme=bear_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaGSMuniz)](https://github.com//MarianaGSMuniz/github-readme-stats)
