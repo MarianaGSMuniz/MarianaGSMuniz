@@ -16,11 +16,21 @@
 
  </div> <br/>
 
- Apaixonada por tecnologias 📱💻, pessoas 🙍‍♀️🙎‍♂️👶 e pets 🐾, atuei na área da educação por 7 anos, durante a pandemia a maneira de lecionar mudou onde eu me apaixonei 😍 mais ainda por tecnologias digitais, senti um desejo de impactar mais a vida das pessoas, então comecei a estudar algumas linguagens de programação (tenho váriooooos certificados na área) e com bons conhecimentos nas linguagens acima.
- Atualmente estou como analista de teste ,responsável por testar APIs, desenvolvimentos para o SAP, serviços, elaborar planos de teste,analisar e realizar testes funcionais, manuais,performance entre outros testes necessarios
- Gosto de me comunicar de forma clara, sou curiosa (alô, Google?), apaixonada por desafios, amo aprender (mente aberta) e muito flexível.
+ Apaixonada por tecnologias 📱💻, pessoas 🙍‍♀️🙎‍♂️👶 e pets 🐾, Iniciei minha carreira na tecnologia como analista de desenvolvimento, realizando suporte para projetos já desenvolvidos para melhorias no sistema ERP SAP B1, utilizando as seguintes linguagens: 
+-C#,
+-NodeJs.,
+-Banco de Dados (MySQL),
+-Versionamento Git.
 
-Busca uma Desenvolvedora Back-End  com muito potencial?
+Atuei como analista de testes ,onde fui responsável pela execução de testes em APIs, SAP B1, pela elaboraração de cenários de testes, realizar testes funcionais, testes manuais, teste unitários, teste performance entre outros planos de testes necessários.
+
+Sou pós graduanda em Desenvolvimento com Metodologias Ágeis, gosto de me comunicar de forma clara, sou curiosa (alô, Google?), apaixonada por desafios, por isso a tecnologia é ideal para mim, amo aprender (mente aberta), ou seja, sempre estou buscando novos conhecimentos, por isso escolhi a área de tecnologia, e sou muito flexível.
+
+
+Busca uma Analista de Teste com muito potencial?
+
+https://github.com/MarianaGSMuniz
+
 Que tal um bate-papo? ☕💻
 
 [![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maewerton60@gmail.com">)
