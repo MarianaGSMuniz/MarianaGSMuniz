@@ -17,9 +17,13 @@
  </div> <br/>
 
  Apaixonada por tecnologias 📱💻, pessoas 🙍‍♀️🙎‍♂️👶 e pets 🐾, Iniciei minha carreira na tecnologia como analista de desenvolvimento, realizando suporte para projetos já desenvolvidos para melhorias no sistema ERP SAP B1, utilizando as seguintes linguagens: 
+ 
 -C#,
+
 -NodeJs.,
+
 -Banco de Dados (MySQL),
+
 -Versionamento Git.
 
 Atuei como analista de testes ,onde fui responsável pela execução de testes em APIs, SAP B1, pela elaboraração de cenários de testes, realizar testes funcionais, testes manuais, teste unitários, teste performance entre outros planos de testes necessários.
