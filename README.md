@@ -13,7 +13,7 @@
 <img align="center" alt= "Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="center" alt= "Mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img align="center" alt= "MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img align="center" alt= "Cypress" src="https://user-images.githubusercontent.com/101331946/225935502-735bc26e-9f96-42fe-be43-5336937b61c9.svg" width="25px" />
+<img align="center" alt= "Cypress" src="https://user-images.githubusercontent.com/101331946/225935502-735bc26e-9f96-42fe-be43-5336937b61c9.svg" width="30px" />
 
  </div> <br/>
 
