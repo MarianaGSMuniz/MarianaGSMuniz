@@ -27,14 +27,13 @@
 
 -Versionamento Git.
 
-Atuei como analista de testes ,onde fui responsável pela execução de testes em APIs, SAP B1, pela elaboraração de cenários de testes, realizar testes funcionais, testes manuais, teste unitários, teste performance entre outros planos de testes necessários.
+Atualmente  estou como Quality Assurance (QA) acompnhando o desenvolvimento dos projets, criando planos de testes, realizando testes manuais.
 
 Sou pós graduanda em Desenvolvimento com Metodologias Ágeis, gosto de me comunicar de forma clara, sou curiosa (alô, Google?), apaixonada por desafios, por isso a tecnologia é ideal para mim, amo aprender (mente aberta), ou seja, sempre estou buscando novos conhecimentos, por isso escolhi a área de tecnologia, e sou muito flexível.
 
 
 Busca uma Analista de Teste com muito potencial?
 
-https://github.com/MarianaGSMuniz
 
 Que tal um bate-papo? ☕💻
 
