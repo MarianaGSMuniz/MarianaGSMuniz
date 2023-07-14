@@ -17,7 +17,7 @@
 
  </div> <br/>
 
- Apaixonada por tecnologias 📱💻, pessoas 🙍‍♀️🙎‍♂️👶 e pets 🐾, Iniciei minha carreira na tecnologia como analista de desenvolvimento, realizando suporte para projetos já desenvolvidos para melhorias no sistema ERP SAP B1, utilizando as seguintes linguagens: 
+ Apaixonada por tecnologias 📱💻, pessoas 🙍‍♀️🙎‍♂️👶 e pets 🐾, iniciei minha carreira na tecnologia como analista de desenvolvimento, realizando suporte para projetos já desenvolvidos para melhorias no sistema ERP SAP B1, utilizando as seguintes linguagens: 
  
 -C#,
 
@@ -27,14 +27,12 @@
 
 -Versionamento Git.
 
-Atualmente  estou como Quality Assurance (QA) acompnhando o desenvolvimento dos projets, criando planos de testes, realizando testes manuais.
+Atualmente  estou como Quality Assurance (QA) acompanhando o desenvolvimento dos projetos, criando planos de testes, realizando testes manuais, ajudando time de desonvolvimento a serem mais ágeis.
 
 Sou pós graduanda em Desenvolvimento com Metodologias Ágeis, gosto de me comunicar de forma clara, sou curiosa (alô, Google?), apaixonada por desafios, por isso a tecnologia é ideal para mim, amo aprender (mente aberta), ou seja, sempre estou buscando novos conhecimentos, por isso escolhi a área de tecnologia, e sou muito flexível.
 
 
-Busca uma Analista de Teste com muito potencial?
 
-
-Que tal um bate-papo? ☕💻
+Que tal um bate-papo ou codarmos juntos? ☕💻
 
 [![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maewerton60@gmail.com">)
