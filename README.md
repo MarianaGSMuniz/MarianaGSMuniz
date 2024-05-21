@@ -35,4 +35,4 @@ Sou pós graduanda em Desenvolvimento com Metodologias Ágeis, gosto de me comun
 
 Que tal um bate-papo ou codarmos juntos? ☕💻
 
-[![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maewerton60@gmail.com">)
+
